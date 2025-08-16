@@ -10,7 +10,7 @@ This report presents an independent academic engineering analysis of **GKN Aeros
 - `GKN_Hybrid_Propulsion1.pdf` – Analysis report  
 - `GKN_Hybrid_Propulsion_Presentation.pdf` – Supporting presentation slides  
 - `example_hybrid_propulsion_co2_plot.py` – Example Python script for plotting CO₂ reduction potential  
-- `academia_link.md` – External link to Academia.edu
+- `Example_Simplified_Emissions.png` – Example Code Output
 
 ## Abstract
 This analysis covers:
