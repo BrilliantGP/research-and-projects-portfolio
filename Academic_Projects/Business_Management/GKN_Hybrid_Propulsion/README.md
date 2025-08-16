@@ -18,6 +18,6 @@ This analysis covers:
 
 This work synthesises engineering theory with industry case analysis to provide insights into the **viability, trade-offs, and pathways** for adopting hybrid propulsion in commercial and regional aviation.
 
-## ⚡ Example Code
+## Example Code
 The included Python script demonstrates how hybridisation levels can impact CO₂ emissions using a simplified model.  
 It generates a **plot of CO₂ savings versus hybridisation percentage**.  
