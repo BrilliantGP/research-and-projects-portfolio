@@ -6,10 +6,11 @@ This investigative pre-university report documents the **modelling, simulation, 
 [Read on Academia.edu – Linear Quadratic Regulator Control of an Inverted Pendulum](https://www.academia.edu/143427405/Linear_Quadratic_Regulator_Control_of_an_Inverted_Pendulum?source=swp_share)
 
 ## Media and Photo Portfolio
-[Google Drive Media Project Folder](https://drive.google.com/drive/folders/1K-OgRF_3hPZy2PV8KZcCZxD2dTSRuTHy?usp=drive_link)
+[Google Drive Media Project Folder](https://drive.google.com/drive/folders/1q9gH7MTThfPDFvFm0wDKJDHwVeeBTiXm?usp=drive_link)
 
 ## Contents
-- `Linear_Quadratic_Regulator_Inverted_Pendulum_Control.pdf` – Full investigative report  
+- `Linear_Quadratic_Regulator_Inverted_Pendulum_Control.pdf` – Full investigative report
+- `Media.md` - Project Photo & Video
 - `example_lqr.m` – Example MATLAB Control Code Simulation
 
 ## 📝 Abstract
@@ -25,4 +26,5 @@ This project demonstrates how **optimal control principles** can be applied to a
 
 ## 🔬 Notes
 This was a **pre-university research project**, representing early exploration into **control engineering and robotics**.
+
 
