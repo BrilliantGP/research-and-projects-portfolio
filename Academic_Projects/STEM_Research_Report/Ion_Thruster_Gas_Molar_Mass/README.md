@@ -10,6 +10,7 @@ This investigative pre-university report explores how the **molar mass of differ
 
 ## Contents
 - `Ion_Thruster_Molar_Mass.pdf` – Full Report
+- `Media.md` - Project Photo & Video
 
 ## Abstract
 This research investigates:
@@ -23,4 +24,5 @@ The findings confirm that **lighter gases enable higher exhaust velocities**, wh
 
 ## Notes
 This was a **pre-university experimental research project**, reflecting early exploration into aerospace propulsion concepts.
+
 
