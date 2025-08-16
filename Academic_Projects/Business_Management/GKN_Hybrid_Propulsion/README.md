@@ -2,6 +2,10 @@
 
 This report presents an independent academic engineering analysis of **GKN Aerospace’s hybrid-electric propulsion systems** for future aircraft. It evaluates design concepts, operational principles, and potential performance of hybrid propulsion as a step toward sustainable aviation. The analysis draws on publicly available technical information, industry data, and engineering best practices.
 
+# External Links
+
+[Read on Academia.edu – Engineering Analysis of GKN Aerospace’s Hybrid Propulsion Systems](https://www.academia.edu/143425510/Engineering_Analysis_of_GKN_Aerospace_s_Hybrid_Propulsion_Systems_for_Next_Generation_Aircraft)
+
 ## Contents
 - `GKN_Hybrid_Propulsion1.pdf` – Analysis report  
 - `GKN_Hybrid_Propulsion_Presentation.pdf` – Supporting presentation slides  
