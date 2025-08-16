@@ -6,7 +6,7 @@ This investigative pre-university report explores how the **molar mass of differ
 [Read on Academia.edu – Gas of Different Molar Mass on The Thrust Performance of Ion Thrusters](https://www.academia.edu/143427337/Gas_of_Different_Molar_Mass_on_The_Thrust_Performance_of_Ion_Thrusters?source=swp_share)
 
 ## Media and Photo Portfolio
-- [Google Drive Media Folder](INSERT_GOOGLE_DRIVE_LINK_HERE) – Photos and videos of the ion thruster experiments.
+[Google Drive Media Project Folder](https://drive.google.com/drive/folders/1K-OgRF_3hPZy2PV8KZcCZxD2dTSRuTHy?usp=drive_link)
 
 ## Contents
 - `Ion_Thruster_Molar_Mass.pdf` – Full Report
@@ -23,3 +23,4 @@ The findings confirm that **lighter gases enable higher exhaust velocities**, wh
 
 ## Notes
 This was a **pre-university experimental research project**, reflecting early exploration into aerospace propulsion concepts.
+
