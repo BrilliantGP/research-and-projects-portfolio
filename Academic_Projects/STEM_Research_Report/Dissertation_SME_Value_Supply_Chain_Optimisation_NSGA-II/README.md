@@ -8,7 +8,8 @@ This report presents a value-driven approach to optimising SME supply chains dur
 ## Contents
 - `Dissertation_SME_Supply_Chain_Industry_4.0_to_5.0_Transition.pdf` – Full report  
 - `Dissertation_Poster.png` – Poster 
-- `Example_nsga2_framework.py` – Example NSGA-II simulation & Pareto visualisation  
+- `Example_nsga2_framework.py` – Example NSGA-II simulation & Pareto visualisation
+- `example_sim_nsgaii.png` - Example Code Output
 
 ## Abstract
 This analysis covers:
