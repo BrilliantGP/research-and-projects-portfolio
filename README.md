@@ -33,3 +33,7 @@ This repository serves as a collection of my **completed and ongoing** academic 
 ---
 
 🔗 For supplementary videos, CAD demos, and extended project documentation, external links to **Google Drive** or other repositories are provided within project folders.
+
+## 🌐 External & Social Links
+- [LinkedIn](https://www.linkedin.com/in/brilliantgpurnawan/)  
+- [Academia.edu](https://manchester.academia.edu/BrilliantPurnawan)  
