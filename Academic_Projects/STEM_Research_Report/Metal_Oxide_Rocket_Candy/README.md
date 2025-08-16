@@ -12,13 +12,14 @@ This pre-university report investigates how the **standard enthalpy of formation
 - `Effect_of_Metal_Oxide_Enthalpy_on_Rocket_Candy_Energy_Release.pdf` – Full report
 - `Media.md` - Project Photo & Video
 
-## 📝 Abstract
+## Abstract
 This analysis covers:
-- **Research question & hypothesis** – Whether metals with more exothermic oxide formation yield greater heat release in KNSU combustion, observable via bomb calorimetry. :contentReference[oaicite:1]{index=1}  
-- **Thermochemical basis** – Use of **enthalpy of formation** and Ellingham-style reasoning to frame expected trends across Al, Mg, Fe, Sn, Cu. :contentReference[oaicite:2]{index=2}  
-- **Method & instrumentation** – DIY bomb calorimetry with water temperature logging, controlled propellant formulation, and data extrapolation to approximate instantaneous peak temperature. :contentReference[oaicite:3]{index=3}  
-- **Variables & controls** – Fixed oxidiser–fuel ratio, constant propellant mass and additive percentage, consistent liquid, volume, and timing window to ensure fair comparisons. :contentReference[oaicite:4]{index=4}  
-- **Findings** – Correlation between **more negative oxide formation enthalpy (per O₂ basis)** and **higher measured heat release**; aluminium and magnesium mixtures generally exhibit the strongest energy output, with rationale for deviations discussed. :contentReference[oaicite:5]{index=5}  
-- **Uncertainty & limitations** – Heat losses and apparatus constraints acknowledged; uncertainty propagation reported for ΔT, q, and derived formation enthalpies. :contentReference[oaicite:6]{index=6}  
+- **Research question & hypothesis** – Whether metals with more exothermic oxide formation yield greater heat release in KNSU combustion, observable via bomb calorimetry.  
+- **Thermochemical basis** – Use of **enthalpy of formation** and Ellingham-style reasoning to frame expected trends across Al, Mg, Fe, Sn, Cu.  
+- **Method & instrumentation** – DIY bomb calorimetry with water temperature logging, controlled propellant formulation, and data extrapolation to approximate instantaneous peak temperature.  
+- **Variables & controls** – Fixed oxidiser–fuel ratio, constant propellant mass and additive percentage, consistent liquid, volume, and timing window to ensure fair comparisons.  
+- **Findings** – Correlation between **more negative oxide formation enthalpy (per O₂ basis)** and **higher measured heat release**; aluminium and magnesium mixtures generally exhibit the strongest energy output, with rationale for deviations discussed.  
+- **Uncertainty & limitations** – Heat losses and apparatus constraints acknowledged; uncertainty propagation reported for ΔT, q, and derived formation enthalpies.  
 
-Overall, the work offers a clear experimental link between **thermochemical properties of metal additives** and **propellant energy output**, providing a practical reference for additive selection in small-scale rocketry and educational combustion studies. :contentReference[oaicite:7]{index=7}
+Overall, the work offers a clear experimental link between **thermochemical properties of metal additives** and **propellant energy output**, providing a practical reference for additive selection in small-scale rocketry and educational combustion studies.
+
