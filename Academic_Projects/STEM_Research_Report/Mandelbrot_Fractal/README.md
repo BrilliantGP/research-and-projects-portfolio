@@ -18,8 +18,9 @@ This analysis covers:
 - **Computation** – Practical approaches for rendering, parameter choices (viewport, iterations), and colour mapping.
 
 ## Example Code
-Simple Python script to generate and save an image of the set.
+Simple Python script to generate and save an image of the set (200 Iterations).
 ![Example Code Output](mandelbrot.png)
 
 The work bridges theory and computation, providing a compact reference for readers to **both understand and reproduce** visualisations of the Mandelbrot set.
+
 
