@@ -8,7 +8,7 @@ This report presents a value-driven approach to optimising SME supply chains dur
 ## Contents
 - `Dissertation_SME_Supply_Chain_Industry_4.0_to_5.0_Transition.pdf` – Full report  
 - `Dissertation_Poster.png` – Poster 
-- `nsga2_demo.py` – Example NSGA-II toy simulation & Pareto visualisation  
+- `Example_nsga2_framework.py` – Example NSGA-II simulation & Pareto visualisation  
 
 ## Abstract
 This analysis covers:
@@ -20,4 +20,5 @@ This analysis covers:
 - **Results and insights** – Pareto fronts, convergence behaviour, and sensitivity highlights to inform actionable choices under conflicting objectives.
 
 ## Example Code
-The included `nsga2_demo.py` script produces a simple 2-objective Pareto front (e.g., **minimise Cost** and **minimise (1 − Resilience)**).
+The included `Example_nsga2_framework.py` script produces a simple 3-objective Pareto front (e.g., **minimise Cost** and **minimise (1 − Resilience)**).
+![Example Code Output](example_sim_nsgaii.png)
