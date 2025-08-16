@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# CAD
+*.bak
+*.tmp
+*.swp
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
