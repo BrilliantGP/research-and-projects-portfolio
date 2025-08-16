@@ -10,7 +10,7 @@ This report explores the Mandelbrot set as a canonical fractal arising from iter
 - `example_mandelbrot.py` – Example Code
 - `mandelbrot.png` – Example output produced by the script
 
-## 📝 Abstract
+## Abstract
 This analysis covers:
 - **Iterative complex mappings** – How repeated iteration generates the Mandelbrot boundary and rich internal structure.  
 - **Escape-time visualisation** – Using iteration counts to render the fractal’s exterior layers.  
@@ -22,3 +22,4 @@ Simple Python script to generate and save an image of the set.
 ![Example Code Output](mandelbrot.png)
 
 The work bridges theory and computation, providing a compact reference for readers to **both understand and reproduce** visualisations of the Mandelbrot set.
+
