@@ -3,13 +3,14 @@
 This investigative pre-university report documents the **modelling, simulation, and control** of an inverted pendulum system using the **Linear Quadratic Regulator (LQR)** optimal control method. The project integrates **mechanical dynamics, control theory, and embedded systems engineering** to stabilise a naturally unstable system.
 
 ## External Links
-[Read on Academia.edu – Engineering Analysis of GKN Aerospace’s Hybrid Propulsion Systems](https://www.academia.edu/143425356/Value_Driven_Supply_Chain_Optimisation_in_SMEs_Using_NSGA_II_Genetic_Algorithm_During_the_Industry_4_0_to_5_0_Transition?source=swp_share)
+[Read on Academia.edu – Linear Quadratic Regulator Control of an Inverted Pendulum](https://www.academia.edu/143427405/Linear_Quadratic_Regulator_Control_of_an_Inverted_Pendulum?source=swp_share)
 
-[Google Drive Media Folder](INSERT_GOOGLE_DRIVE_LINK_HERE) – Photos, videos, and demo clips of the pendulum project.
+## Media and Photo Portfolio
+[Google Drive Media Project Folder](https://drive.google.com/drive/folders/1K-OgRF_3hPZy2PV8KZcCZxD2dTSRuTHy?usp=drive_link)
 
 ## Contents
-- `Inverted_Pendulum_LQR.pdf` – Full investigative report  
-- `lqr_pendulum_example.m` – Example Python/Matlab-style script for simulating LQR pendulum control (optional)
+- `Linear_Quadratic_Regulator_Inverted_Pendulum_Control.pdf` – Full investigative report  
+- `example_lqr.m` – Example MATLAB Control Code Simulation
 
 ## 📝 Abstract
 The work investigates:
@@ -24,3 +25,4 @@ This project demonstrates how **optimal control principles** can be applied to a
 
 ## 🔬 Notes
 This was a **pre-university research project**, representing early exploration into **control engineering and robotics**.
+
