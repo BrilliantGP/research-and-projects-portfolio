@@ -25,3 +25,5 @@ This work synthesises engineering theory with industry case analysis to provide 
 ## Example Code
 The included Python script demonstrates how hybridisation levels can impact CO₂ emissions using a simplified model.  
 It generates a **plot of CO₂ savings versus hybridisation percentage**.  
+
+![Example Code Output](Example_Simplified_Emissions.png)
