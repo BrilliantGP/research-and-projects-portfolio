@@ -13,7 +13,7 @@ This investigative pre-university report documents the **modelling, simulation, 
 - `Media.md` - Project Photo & Video
 - `example_lqr.m` – Example MATLAB Control Code Simulation
 
-## 📝 Abstract
+## Abstract
 The work investigates:
 - **System modelling** – Nonlinear dynamics derived via the Euler–Lagrange method.  
 - **State-space representation** – Linearisation of the system and Jacobian analysis.  
@@ -24,7 +24,8 @@ The work investigates:
 
 This project demonstrates how **optimal control principles** can be applied to a classical unstable system, blending theory with practical hardware implementation.  
 
-## 🔬 Notes
+## Notes
 This was a **pre-university research project**, representing early exploration into **control engineering and robotics**.
+
 
 
