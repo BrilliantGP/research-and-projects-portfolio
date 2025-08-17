@@ -3,10 +3,10 @@
 This pre-university report investigates how the **standard enthalpy of formation of metal oxides** influences the exothermic energy release of a potassium nitrate–sucrose (KNSU) propellant, using **bomb calorimetry** to compare aluminium, magnesium, iron, tin, and copper metal additives. The study connects thermochemistry (Ellingham reasoning) to experimental measurements (q = m·c·ΔT) to explain observed performance differences across metal fuels. :contentReference[oaicite:0]{index=0}
 
 # External Links
-[Read on Academia.edu – Metals Oxides of Different Enthalpy of Formation on Exothermic Energy Release of Rocket Candy]([https://www.academia.edu/143427337/Gas_of_Different_Molar_Mass_on_The_Thrust_Performance_of_Ion_Thrusters?source=swp_share](https://www.academia.edu/143427327/Metals_Oxides_of_Different_Enthalpy_of_Formation_on_Exothermic_Energy_Release_of_Rocket_Candy?source=swp_share))
+[Read on Academia.edu – Metals Oxides of Different Enthalpy of Formation on Exothermic Energy Release of Rocket Candy](https://www.academia.edu/143427327/Metals_Oxides_of_Different_Enthalpy_of_Formation_on_Exothermic_Energy_Release_of_Rocket_Candy?source=swp_share)
 
 ## Media and Photo Portfolio
-[Google Drive Media Project Folder](https://drive.google.com/drive/folders/1K-OgRF_3hPZy2PV8KZcCZxD2dTSRuTHy?usp=drive_link)
+[Google Drive Media Project Folder](https://drive.google.com/drive/folders/1OI6ZkQ67bV4eHbk79xfLftO64qPsMahw?usp=drive_link)
 
 ## Contents
 - `Effect_of_Metal_Oxide_Enthalpy_on_Rocket_Candy_Energy_Release.pdf` – Full report
@@ -22,4 +22,5 @@ This analysis covers:
 - **Uncertainty & limitations** – Heat losses and apparatus constraints acknowledged; uncertainty propagation reported for ΔT, q, and derived formation enthalpies.  
 
 Overall, the work offers a clear experimental link between **thermochemical properties of metal additives** and **propellant energy output**, providing a practical reference for additive selection in small-scale rocketry and educational combustion studies.
+
 
