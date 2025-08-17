@@ -14,7 +14,7 @@ The manufactured nozzle was still utilised in combustion tests, but with **const
 
 ## Contents
 - `nozzle_sim.m` – Nozzle angle simulation prototype code
-- `Nozzle_schematic` - CAD Drawing draft for manufacturing
+- `Nozzle_schematic.png` - CAD Drawing draft for manufacturing
 
 ## Notes
 - Physical Nozzle Material: **Aluminium 6061** (machined via lathe and milling).  
