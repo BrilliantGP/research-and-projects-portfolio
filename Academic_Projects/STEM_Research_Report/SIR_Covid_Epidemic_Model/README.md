@@ -3,10 +3,7 @@
 This report applies compartmental epidemic modelling to the COVID-19 outbreak in Jakarta, combining **SIR/SEIRDV dynamics**, **parameter estimation from local data**, **R₀ analysis**, and **scenario testing for vaccination rates and site placement**. The work balances mathematical rigour with policy-oriented insights for public-health decision making.
 
 # External Links
-[Read on Academia.edu – Gas of Different Molar Mass on The Thrust Performance of Ion Thrusters](https://www.academia.edu/143427337/Gas_of_Different_Molar_Mass_on_The_Thrust_Performance_of_Ion_Thrusters?source=swp_share)
-
-## Media and Photo Portfolio
-[Google Drive Media Project Folder](https://drive.google.com/drive/folders/1K-OgRF_3hPZy2PV8KZcCZxD2dTSRuTHy?usp=drive_link)
+[Read on Academia.edu – Mathematical Modelling of Epidemic Spread and Control Strategies](https://www.academia.edu/143427450/Mathematical_Modelling_of_Epidemic_Spread_and_Control_Strategies?source=swp_share)
 
 ## Contents
 - `Mathematical_Modelling_of_Epidemic_Spread_and_Control_Strategies.pdf` – Full report  
@@ -23,5 +20,6 @@ This analysis covers:
 - **Visualisation** – Time-series trajectories and phase-portrait interpretations for key compartments.  
 
 ## Example Code
-The included MATLAB script simulates a **basic SIR model** and saves a plot as `example_sir.png`.
+The included MATLAB script simulates a **basic SIR model** and saves a plot as `epidemic_sir.m`.
+![Example Code Output](example_sir.png)
 
