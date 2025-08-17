@@ -9,8 +9,12 @@ However, the variable of nozzle geometry was later **discarded** from both resea
 
 The manufactured nozzle was still utilised in combustion tests, but with **constant converging and diverging angles** across all experiments.
 
+## Media and Photo Portfolio
+[Google Drive Media Project Folder](https://drive.google.com/drive/folders/18ipQmDezKse8z_DnUNSBrUwpFgY4Biya?usp=drive_link)
+
 ## Contents
 - `nozzle_sim.m` – Nozzle angle simulation prototype code
+- `Nozzle_schematic` - CAD Drawing draft for manufacturing
 
 ## Notes
 - Physical Nozzle Material: **Aluminium 6061** (machined via lathe and milling).  
