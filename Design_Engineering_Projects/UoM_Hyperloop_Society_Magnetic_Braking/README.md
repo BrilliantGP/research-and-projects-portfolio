@@ -3,7 +3,7 @@
 This portfolio, compiled by Brilliant Gustavo Purnawan and the UoM Hyperloop Society Magnetic Braking Team, documents the design, simulation, and prototyping of an **eddy current magnetic braking system** for hyperloop applications. The project integrates theoretical modelling, CAD design, and experimental testing to evaluate braking performance in high-speed conditions.
 
 # Media, Photo, CAD Drawings Portfolio
-[Google Drive Media Project Folder](https://drive.google.com/drive/folders/1OI6ZkQ67bV4eHbk79xfLftO64qPsMahw?usp=drive_link)
+[Google Drive Media Project Folder](https://drive.google.com/drive/folders/1ZiHYET6jvfjZvNaUfAcd3uk8TxwvZ1SU?usp=drive_link)
 
 ## Contents
 - `EHW_HyperloopManchester_Magnetic Braking_FSD.pdf` – 21/22 project report  
@@ -17,3 +17,4 @@ The work investigates:
 - **Prototype fabrication and testing** with scaled rigs and measurement of stopping forces.  
 
 This project demonstrates the feasibility and challenges of applying **contactless magnetic braking** in hyperloop systems, highlighting trade-offs between safety, efficiency, and system integration in future sustainable transportation technologies.
+
