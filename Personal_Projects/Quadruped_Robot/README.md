@@ -7,7 +7,7 @@ The aim was to investigate mechanical design, gait control, and low-cost actuati
 [Google Drive Media Project Folder](https://drive.google.com/drive/folders/1LfKKf-QHjiotvbZXc6CYqooeN2xc2JS3?usp=drive_link)
 
 ## Contents
-- `Media.md` – Links to project images, CAD models, and demonstration videos  
+- `quadruped.ino` – Example code with simple gait mechanics following 'tripod' principles
 
 ## Overview
 The project focuses on:
@@ -17,4 +17,5 @@ The project focuses on:
 - **Testing** – Basic walking and turning sequences validated on flat surfaces.  
 
 This project served as an introduction to **robotics prototyping**, combining CAD design, 3D printing, and embedded programming for a functional quadruped robot.
+
 
