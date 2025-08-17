@@ -9,7 +9,7 @@ This report, authored by Brilliant Gustavo Purnawan, Ruairi Kavanagh, Muhammad B
 - `MEng_Group_Design_Project_Report_Hybrid_VAWT_Dual_Axis_Solar_Tracking.pdf` – Full project report  
 - `MEng_Group_Design_Project_Presentation_Hybrid_VAWT_Dual_Axis_Solar_Tracking.pdf` – Project presentation slides  
 
-## 📝 Abstract
+## Abstract
 The work investigates:
 - **Aerodynamic optimisation** of VAWT blade geometry under fluctuating wind conditions.  
 - **Solar tracking system** with dual-axis actuation for maximising photovoltaic efficiency.  
@@ -18,4 +18,5 @@ The work investigates:
 - **Feasibility analysis** of hybrid energy systems in small-scale and off-grid applications.  
 
 The project demonstrates the potential of combining **distributed wind and solar power generation** within a single hybridised platform to improve resilience, adaptability, and total energy yield in real-world conditions.
+
 
