@@ -10,10 +10,11 @@ The board combines **off-the-shelf components** with custom assembly, offering i
 - `RX_Board_Uno_v3.ino` – Arduino V3 Code for Board
 - `TX_Joystick_Nano_v2.ino` – Arduino V2 Code for Joystick
 
-## 📝 Project Overview
+## Project Overview
 Key objectives of this project were:
 - Develop a **budget-friendly electric skateboard** capable of reliable daily commuting.  
 - Integrate a **brushless DC motor (BLDC)** with an electronic speed controller (ESC).  
 - Assemble a **lithium-ion battery pack** with BMS (battery management system).  
 - Ensure **mechanical stability** with modified trucks, deck, and custom mounting hardware.  
 - Test ride performance for **speed, range, and braking efficiency**.  
+
